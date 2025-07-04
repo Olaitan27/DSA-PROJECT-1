@@ -14,7 +14,7 @@ The primary Source of Data used here is DSA Capstone Dataset.xlsx
 
   
 ### Data Cleaning and Praparation
- During cleaning, filter tool was used to validate each column and values and and duplicate product id was removed I adopted text to columns and I copied the category to another worksheet and split them because it is a multi level category, calculated columns were created. Total potential Revenue was gotten by multiplying actual price by rating count. another calculation for price range bucket was done.
+ During cleaning, filter tool was usedto validate each column and values and and duplicate product id was removed I adopted text to columns and I copied the category to another worksheet and split them because it is a multi level category, calculated columns were created. Total potential Revenue was gotten by multiplying actual price by rating count. another calculation for price range bucket was done.
  
 ### Average Discount Percentage by Product Category and Number of products listed under each Category
 This is a pivot table showing the average discount percentage by product category, and number of products listed under each category
@@ -41,3 +41,7 @@ This is a pivot table showing the highest average ratings and average actual pri
 ### Products that have a discount of 50% and more
 This table shows that 595 products has a discount of 50% and more
 ![Products that have a discount of 50% and more](https://github.com/user-attachments/assets/543d979e-2059-447a-9a01-0091c552ab2b)
+
+### Amazon Product Review Dashboard
+This is a dashboard showing a representi of few of the prouct review
+![Amazon Product Review Dashboard](https://github.com/user-attachments/assets/ac9a0f33-2ea7-431a-9029-f9e32545746d)
