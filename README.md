@@ -39,4 +39,5 @@ This is a pivot table showing the highest average ratings and average actual pri
 
 
 ### Products that have a discount of 50% and more
+This table shows that 595 products has a discount of 50% and more
 ![Products that have a discount of 50% and more](https://github.com/user-attachments/assets/543d979e-2059-447a-9a01-0091c552ab2b)
